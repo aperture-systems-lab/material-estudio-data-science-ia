@@ -325,7 +325,7 @@ Este repositorio es un recopilación de  material auxiliar para aprender sobre l
 
 ## R
 
-- [Harvard CS50’s Intro to R Programming](https://youtu.be/g_3IKHG-rfA) `Video` - `Inglés`
+- [Harvard CS50’s Introduction to R Programming](https://youtube.com/playlist?list=PLhQjrBD2T382yfNp_-xzX244d-O9W6YmD&si=-NNfjqi9UrvoEjFE) `Curso` - `Inglés`
 
   Curso completo y gratuito de Harvard CS50 para aprender R desde cero, enfocado en ciencia de datos, estadística y desarrollo de programas reales.
 
@@ -334,6 +334,10 @@ Este repositorio es un recopilación de  material auxiliar para aprender sobre l
 ---
 
 ## SQL
+
+- [Harvard CS50's Introduction to Databases with SQL](https://youtube.com/playlist?list=PLhQjrBD2T382v1MBjNOhPu9SiJ1fsD4C0&si=xdtmewU70rzz4b-9) `Curso` - `Inglés`
+
+  Curso completo y gratuito de Harvard CS50 para aprender SQL desde cero, enfocado en diseño de bases de datos, optimización de consultas y gestión de datos reales con SQLite, PostgreSQL y MySQL.
 
 - [Píldoras Informáticas — Curso SQL](https://www.youtube.com/@pildorasinformaticas) `Video` - `Español`
 
