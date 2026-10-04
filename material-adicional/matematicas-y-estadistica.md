@@ -1,5 +1,9 @@
 # Matemáticas y estadística — Material adicional
 
+- [Linear Algebra — Notas de clase de Terence Tao](https://terrytao.wordpress.com/wp-content/uploads/2016/12/linear-algebra-notes.pdf) `Libro` - `Inglés`
+
+  Notas del curso de **álgebra lineal** de Terence Tao en UCLA (Math 115A), gratis en PDF. Van desde espacios vectoriales y transformaciones lineales hasta valores propios, diagonalización, ortogonalidad (Gram-Schmidt) y operadores adjuntos. Es un enfoque riguroso, con demostraciones, para quien quiera entender la teoría a fondo.
+
 - [Harvard STAT110 — Videos](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) `Video` - `Inglés`
 
   El mejor curso universitario gratuito de probabilidad (Joe Blitzstein). 34 clases completas en YouTube. *Recomendado por Datogami.*
