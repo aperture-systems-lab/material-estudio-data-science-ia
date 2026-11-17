@@ -37,6 +37,10 @@ Este repositorio es un recopilación de  material auxiliar para aprender sobre l
 
   Charla del semillero hecha en manim, con presentación y una parte práctica para aprender los conceptos básicos de Git y GitHub.
 
+- [GIT & GITHUB](https://pildorasdeprogramacion.com/cursos/git-github) `Curso` - `Español`
+
+  Curso de Píldoras de Programación para aprender a usar Git y GitHub desde cero, cubriendo el control de versiones, el trabajo con repositorios y la colaboración en proyectos.  
+
 - [Git & GitHub Crash Course for Beginners](https://youtu.be/mAFoROnOfHs) `Video` - `Inglés`
 
   Curso introductorio para aprender Git y GitHub desde cero, incluyendo los conceptos básicos de control de versiones y colaboración en proyectos.
